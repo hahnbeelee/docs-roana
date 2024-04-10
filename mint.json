@@ -54,7 +54,8 @@
       "pages": [
         "introduction",
         "quickstart",
-        "development"
+        "development",
+        "deprecated-example"
       ]
     },
     {
@@ -70,9 +71,7 @@
     },
     {
       "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
+      "pages": ["api-reference/introduction"]
     },
     {
       "group": "Endpoint Examples",
