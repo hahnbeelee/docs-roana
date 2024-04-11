@@ -5,7 +5,7 @@ info:
 paths:
   /example:
     get:
-      summary: Example endpoint
+      summary: Example endpoint!
       parameters:
         - name: apiKey1
           in: header
